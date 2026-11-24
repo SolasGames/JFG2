@@ -1,0 +1,65 @@
+So, I have decided that I want to attempt creating this dream with other like minded individuals. 
+I want to firstly make it clear that I am in no way an expert of game development. 
+However I have been working with engines like Godot and Unitiy for the past 4 years.
+That being said I also dont expect anyone else to be an expert. 
+That being said you should be able to communicate effectively and work with others without abuse or negativity.
+After all if you are here you are likely a fan as well.
+
+I will be listing what I believe is needed to make this work. If there is something 
+I am missing or maybe mistaken on I am always open to being corrected and educated.
+
+1. Game Designer / Creative Director
+
+- Defines the game's vision, genre and identity.
+- Designs gameplay mechanics and systems.
+- Creates levels, progression and challenges.
+- Balances difficulty, pacing and player experience.
+- Makes decisions about what belongs in the game.
+
+2. Programmer / Developer
+
+- Implements gameplay mechanics.
+- Builds player movement, combat and interactions.
+- Implements enemy AI and game systems.
+- Handles physics, collision and animations.
+- Manages saving, menus and technical performance.
+Typically works in Unity, Godot or GameMaker.
+
+3. 2D Artist / Visual Artist
+
+- Designs characters, enemies and environments.
+- Creates sprites, backgrounds and objects.
+- Establishes the visual style and colour palette.
+- Produces visual effects and UI artwork.
+- Ensures consistency across the game's visuals.
+
+4. 2D Animator
+
+- Animates character movement.
+- Creates attack, damage and death animations.
+- Animates enemies and environmental objects.
+- Adds movement and personality to the game.
+
+5. Sound Designer / Composer
+
+- Creates music and atmosphere.
+- Produces sound effects for movement, combat and interactions.
+- Designs environmental audio.
+- Handles audio mixing and implementation.
+
+6. Level Designer
+
+Can be combined with game designer
+- Builds playable levels and environments.
+- Designs enemy encounters and obstacles.
+- Controls difficulty progression.
+- Creates exploration opportunities and secrets.
+- Ensures levels feel engaging and rewarding.
+
+7. QA Tester / Playtester
+
+- Finds bugs and technical problems.
+- Tests gameplay mechanics.
+- Identifies frustrating or confusing sections.
+- Checks difficulty and game balance.
+- Tests different hardware and resolutions.
